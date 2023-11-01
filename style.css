@@ -1,0 +1,18 @@
+.hero_section{
+    height: 100vh;
+    width: auto;
+    background:url(images/background/bg_1.jpg);
+    background-size: cover;
+}
+
+.hero_section div h2 {
+    font-size: 4rem;
+}
+
+.card-bg-lightGreen{
+    background-color: rgb(84, 151, 129)!important;
+}
+
+.banner_slider{
+    background-color: rgb(84, 151, 129)!important
+}
